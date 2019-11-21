@@ -1,0 +1,8 @@
+bin
+obj
+
+*.suo
+*.ncb
+*.pdb
+*.user
+git-cmd.lnk
